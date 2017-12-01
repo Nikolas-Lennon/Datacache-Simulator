@@ -1,7 +1,7 @@
 /**********************************************************
  *       Name: Nikolas Lennon                              *
- *      Class: CDA3101                                     *
- * Assignment: Implementing a Data Cache Simulator         *
+ *                                                         *
+ *                                                         *
  *    Compile: "gcc -g -o datacache datacache.c"           *
  *                                                         *
  *                                                         *
